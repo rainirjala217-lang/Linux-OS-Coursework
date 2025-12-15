@@ -108,11 +108,11 @@ https://owasp.org/www-community/Threat_Modeling
 
 4. OpenSSH-Security Best Practices
  
-https://www.ssh.com/academy/ssh/security-best-practices
+https://www.ssh.com/academy/ssh
 
 5. Red Hat Enterprise Linux-Monitoring and Managing System Performance
  
-https://access.redhat,com/documentation/enus/red_hat_enterprise_linux/9/html/monitoring_and_managing_system_status_and_performance
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html/monitoring_and_managing_system_status_and_performance/
 
 6. SELinux Project-Official Documentation
  
@@ -120,7 +120,8 @@ https://selinuxproject.org/page/Main_Page
 
 7. CISA-Understanding Denial-of Service Attacks
 
-https://www.cisa.gov/denial-service
+https://www.cisa.gov/denial-service-attacks
+
 
 
 
