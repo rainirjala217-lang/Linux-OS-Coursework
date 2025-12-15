@@ -111,7 +111,7 @@ https://www.virtualbox.org/manual/ch06.html
 
 https://www.virtualbox.org/manual/UserManual.html
 
-7. Shotts, W. The Linux Command Line
+6. Shotts, W. The Linux Command Line
 
 https://linuxcommand.org/tlcl.php
 
