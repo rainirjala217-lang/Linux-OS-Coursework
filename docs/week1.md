@@ -96,7 +96,7 @@ In this first assessment week I learned how to setup Ubuntu Server and ubuntu De
 2. Canonical Ltd. Ubuntu Destop 24.04 LTS Documentation   https://ubuntu.com/destop
 
 3. canonical Ltd. Ubuntu 24.04 LTS(Noble Numbat) Release Notes
-https:// discourse.ubuntu.com/t/ubuntu-24-04-its-noble-numbat-release-notes/
+https://discourse.ubuntu.com/t/ubuntu-24-04-its-noble-numbat-release-notes/
 
 4. Oracle Coroprateion. VirtualBox Networking: NAT and Host-Only Networking
 https://www.virtualbox.org/manual/ch06.html
