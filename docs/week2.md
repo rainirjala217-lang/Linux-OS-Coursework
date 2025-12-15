@@ -93,6 +93,37 @@ A denial-of-service attack is also something I considered. This type of attack s
 
 In this week, I focused on planning system performance testing and improving overall security. I created a performance testing plan that uses remote monitoring and different testing methods to understand how the system behaves under normal and high load conditions. I also developed a security configuration checklist that covers SSH hardening, firewall setup, access control, automatic updates, user permission management, and network security to reduce system weaknesses. In addition, I identified key security threats such as SSH brute-force attacks, privilege escalation, and denial-of-service attacks, and applied mitigation step to reduce these risks. This phase helped establish a secure and reliable system that is ready for the future deployment.
 
+# Reference:
+1. NIST Special Publication 800-53 – Security and Privacy Controls
+ 
+https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final
+
+2. NIST Special Publication 800-41 – Guidelines on Firewalls and Network Security
+
+https://csrc.nist.gov/publications/detail/sp/800-41/rev-1/final
+
+3. OWASP – Threat Modeling 
+ 
+https://owasp.org/www-community/Threat_Modeling
+4. OpenSSH-Security Best Practices
+ 
+https://www.ssh.com/academy/ssh/security-best-practices
+
+5. Red Hat Enterprise Linux-Monitoring and Managing System Performance
+ 
+https://access.redhat,com/documentation/enus/red_hat_enterprise_linux/9/html/monitoring_and_managing_system_status_and_performance
+
+6. SELinux Project-Official Documentation
+ 
+https://selinuxproject.org/page/Main_Page
+
+7. CISA-Understanding Denial-of Service Attacks
+
+https://www.cisa.gov/denial-service
+
+
+
+
 
 
 
