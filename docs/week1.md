@@ -111,10 +111,6 @@ https://www.virtualbox.org/manual/ch06.html
 
 https://www.virtualbox.org/manual/UserManual.html
 
-6. Linux Foundation. Linux Command Line Basics  
-
-https://training.linuxfoundation.org/resources/blog/introduction-to-linux-command-line/
-
 7. Shotts, W. The Linux Command Line
 
 https://linuxcommand.org/tlcl.php
