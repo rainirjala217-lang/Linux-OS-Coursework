@@ -1,6 +1,5 @@
 Nirjala Ranahocha Chamling Rai
 
-A00024692
 
 Operating System week1
 
