@@ -91,22 +91,31 @@ Command Explain:
 In this first assessment week I learned how to setup Ubuntu Server and ubuntu Desktop in VirtualBox and connect them using NAT and Host-only network. Firstly, I found the IP addresses and network settings a bit confusing but I used command like ip addr helped me to see how everything was linked. I also got more confident using basic Linux commands such as uname, free, df -h, and lsb_release to check system information. Overall, I feel like I understand my virtual environment much better and I’m more comfortable working in linux terminal.
 
 # References:
-1. Canonical Ltd. Ubuntu Server 24.04 LTS Documentation   https://ubuntu.com/server/docs
+1. Canonical Ltd. Ubuntu Server 24.04 LTS Documentation
 
-2. Canonical Ltd. Ubuntu Destop 24.04 LTS Documentation   https://ubuntu.com/destop
+https://ubuntu.com/server/docs
+
+2. Canonical Ltd. Ubuntu Destop 24.04 LTS Documentation
+
+https://ubuntu.com/desktop
 
 3. canonical Ltd. Ubuntu 24.04 LTS(Noble Numbat) Release Notes
-https://discourse.ubuntu.com/t/ubuntu-24-04-its-noble-numbat-release-notes/
+
+https://wiki.ubuntu.com/NobleNumbat/ReleaseNotes
 
 4. Oracle Coroprateion. VirtualBox Networking: NAT and Host-Only Networking
+
 https://www.virtualbox.org/manual/ch06.html
 
 5. Oracal Corporation. Oracal VM VirtualBox User Manual
+
 https://www.virtualbox.org/manual/UserManual.html
 
 6. Linux Foundation. Linux Command Line Basics  
-https://www.linuxfoundation.org/resources/linux-command-line-basics
+
+https://training.linuxfoundation.org/resources/blog/introduction-to-linux-command-line/
 
 7. Shotts, W. The Linux Command Line
+
 https://linuxcommand.org/tlcl.php
 
