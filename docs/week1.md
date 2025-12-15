@@ -93,7 +93,7 @@ In this first assessment week I learned how to setup Ubuntu Server and ubuntu De
 # References:
 1. Canonical Ltd. Ubuntu Server 24.04 LTS Documentation   https://ubuntu.com/server/docs
 
-2. Canonical Ltd. Ubuntu Destop 24.04 LTS Documentation   https;//ubuntu.com/destop
+2. Canonical Ltd. Ubuntu Destop 24.04 LTS Documentation   https://ubuntu.com/destop
 
 3. canonical Ltd. Ubuntu 24.04 LTS(Noble Numbat) Release Notes
 https:// discourse.ubuntu.com/t/ubuntu-24-04-its-noble-numbat-release-notes/
