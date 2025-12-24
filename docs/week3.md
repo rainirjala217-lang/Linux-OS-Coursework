@@ -64,3 +64,21 @@ In this coursework, I selected and tested different
 applications to measure CPU, memory, disk, network, and
 server performance. I successfully set up SSH on the
 Ubuntu server and connected to it remotely from the Ubuntu desktop. By monitoring system resources during each test, I gained a clear understanding of how different workloads affect overall system performance.
+
+# References:
+
+1.	Ubuntu Server Documentation:
+		
+ https://help.ubuntu.com
+ 
+2.	OpenSSH Server Documentation:
+	
+https://ubuntu.com/server/docs/openssh-server
+
+3.	Stress-ng: Stress testing tool:
+	
+https://wiki.ubuntu.com/Kernel/Reference/stress-ng
+
+4.	FIO – Flexible I/O Tester:
+
+https://fio.readthedocs.io
