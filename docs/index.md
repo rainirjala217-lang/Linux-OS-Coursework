@@ -1,5 +1,5 @@
 # Linux Server Configuration, Security, and Performance Evaluation  
-Student ID: A00024692 Nirjala Chalming Rai  
+Student ID: A00024692 Nirjala Ranahocha Chalming Rai  
 Course: Operating Systems 
 Professor:  Dr Shabih Fatima  
 Repository: Operating Systems Coursework 
