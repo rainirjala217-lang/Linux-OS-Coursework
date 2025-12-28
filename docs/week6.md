@@ -143,3 +143,13 @@ This chart shows network throughput across testing phases. During baseline testi
 # 11. Conclusion
 
 In this Week, I tested the performance of my Ubuntu Server to understand how the operating system behaves when idle and under different workloads while being managed remotely via SSH. Baseline testing showed low resource usage and stable system behaviour. When CPU, memory, disk, and network loads were applied, resource usage increased as expected, but the system remained stable. After applying disk and memory optimisations, performance improved while maintaining reliability. Overall, this testing helped demonstrate how Linux manages system resources under load and how performance tuning can improve efficiency in a headless server environment.
+
+# Reference:
+
+1. Linux Man Pages
+   
+https://man7.org/linux/man-pages/man1/dd.1.html 
+
+2. iperf3
+
+https://iperf.fr/iperf-doc.php
