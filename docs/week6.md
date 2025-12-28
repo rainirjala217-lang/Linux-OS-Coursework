@@ -130,6 +130,7 @@ CPU Usage:
 This chart shows CPU usage across different testing phases. During baseline testing, CPU usage was very low at around 1.5%, showing the system was idle. Under load, CPU usage increased to 100%, which confirms that the CPU stress test fully utilised the processor. After optimisation, CPU usage dropped to about 3.5%, showing that the system returned to a stable and efficient state.
 
 Memory Usage:
+
 <img width="527" height="262" alt="Screenshot 2025-12-27 155849" src="https://github.com/user-attachments/assets/e4513fc5-198f-46d3-a9f3-56d14a54d7cc" />
 
 This chart illustrates memory usage during different system states. At baseline, memory usage was around 463 MB, indicating low resource usage. During load testing, memory usage increased to approximately 975 MB as expected. After optimisation, memory usage reduced to about 820 MB, showing improved memory management and more efficient use of RAM.
